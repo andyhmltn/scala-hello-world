@@ -7,4 +7,4 @@ How to run
 ========================
 To run, just use:
 
-	scala bin/HelloWorld
+	scala -classpath bin/ HelloWorld
